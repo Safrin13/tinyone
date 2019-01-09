@@ -1,0 +1,155 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+	 /* header start*/
+.menu ul li a {
+    text-align: right;
+    padding: 5px!important; 
+    font-size: 20px;
+}
+/* header end */
+/* banner start */
+.b_content {
+    padding: 50px 0;
+}
+.b_content h1, .f_title h1, .c_title h1 {
+    font-size: 27px;
+}
+.simple {
+    font-size: 16px!important;
+}
+.b_icons a {
+    font-size: 38px;
+}
+/* banner end */
+/* feature start */
+.features {
+    padding: 50px 0;
+}
+.f_contents h4 {
+    font-size: 20px;
+}
+.t_features{
+	margin-top: 30px;
+}
+/* feature end */
+/* contact start */
+.contact{
+   padding:50px 0 40px 0;
+}
+.s_btn{
+	text-align: center;
+}
+/* contact end */
+/* footer start */
+.c_footer{
+	margin-top: 20px;
+    text-align: center; 
+}
+.address{
+    text-align: center;
+}
+/* footer end */
+ 
+}
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+ /* header start*/
+.menu ul li a {
+    text-align: right;
+    padding: 5px!important; 
+}
+/* header end */
+/* banner start */
+.b_content {
+    padding: 50px 0;
+}
+.b_content h1, .f_title h1, .c_title h1 {
+    font-size: 30px;
+}
+.simple {
+    font-size: 18px!important;
+}
+.b_icons a {
+    font-size: 38px;
+}
+/* banner end */
+/* feature start */
+.features {
+    padding: 60px 0;
+}
+.f_contents h4 {
+    font-size: 20px;
+}
+/* feature end */
+/* contact start */
+.contact{
+   padding: 60px 0;
+}
+.s_btn{
+	text-align: center;
+}
+.s_icons {
+    margin-top: 35px;
+}
+.s_icons a {
+    padding: 5px 10px;
+}
+.s_icons a:first-child {
+    padding-left: 15px;
+}
+/* contact end */
+/* footer start */
+.c_footer{
+	margin-top: 30px;
+}
+/* footer end */
+ }
+
+ 
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+/* header start*/
+.menu ul li a {
+    text-align: right;
+    padding: 5px!important; 
+  /*  font-size: 22px;*/
+}
+/* header end */
+/* banner start */
+.b_content {
+    padding: 50px 0;
+}
+.b_content h1, .f_title h1, .c_title h1 {
+    font-size: 30px;
+}
+.simple {
+    font-size: 18px!important;
+}
+.b_icons a {
+    font-size: 38px;
+}
+/* banner end */
+/* feature start */
+.f_contents h4 {
+    font-size: 20px;
+}
+/* feature end */
+/* contact start */
+.s_icons a {
+    padding: 5px 9px;
+}
+/* contact end */
+ }
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+   
+
+ }
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { 
+
+
+ }
